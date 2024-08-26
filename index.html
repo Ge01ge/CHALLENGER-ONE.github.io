@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Encriptador de Textos</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <main>
+        <div class="borde-neon"> 
+            <h1> Codifica tus <i>Mensajes</i> y compartelos con tus Amigos!</h1>
+            <div class="container">
+                <div class="left-panel ">
+                    <textarea id="inputText" placeholder="Introduce el texto aquí..."></textarea>
+                    <p class="warning">⚠️ No se admite mayúsculas ni caracteres especiales. ⚠️</p>
+                    <div class="buttons">
+                        <button id="encryptButton">Encriptar</button>
+                        <button id="decryptButton">Desencriptar</button>
+                        <button id="resetButton">Reset</button> <!-- Botón Reset añadido -->
+                    </div>
+                </div>
+                <div class="right-panel">
+                    <textarea id="outputText" readonly placeholder="Resultado..."></textarea>
+                    <button id="copyButton" class="copy"> Copiar</button>
+                </div>
+            </div>    
+        </div>
+        
+    </main>
+    
+    <footer>
+       <p><b>all rights reserved by Jorge Alegre &copy; 2024</b></p> 
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
