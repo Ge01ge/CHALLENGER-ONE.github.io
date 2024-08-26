@@ -16,7 +16,9 @@ tambien consta de un pie de pagina basico
 
 ![deploy](./img/challenger.jpg)
 
-[deploy en githubpages](https://ge01ge.github.io/CHALLENGER-ONE.github.io/)
+
+<a href="https://ge01ge.github.io/CHALLENGER-ONE.github.io/" target="_blank">deploy en github pages</a>
+
 
 ## Contacto
 
