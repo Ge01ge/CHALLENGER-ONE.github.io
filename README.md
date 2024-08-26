@@ -16,13 +16,16 @@ tambien consta de un pie de pagina basico
 
 ![deploy](./img/challenger.jpg)
 
+Hacer clic derecho y seleccionar "Abrir enlace en una nueva pestaña" para abrirlo en una nueva pestaña
+[Puedes ver el deploy en GitHub Pages](https://ge01ge.github.io/CHALLENGER-ONE.github.io/)
 
-<a href="https://ge01ge.github.io/CHALLENGER-ONE.github.io/" target="_blank">deploy en github pages</a>
+<!--<a href="https://ge01ge.github.io/CHALLENGER-ONE.github.io/" target="_blank"> deploy en github pages</a> 
+La mayoría de los visores de Markdown, incluyendo GitHub, no permiten atributos HTML como target="_blank" para controlar la apertura de enlaces en nuevas pestañas por razones de seguridad y consistencia. GitHub, por ejemplo, solo permite el uso básico de Markdown y no admite la apertura de enlaces en nuevas pestañas directamente desde el README.md.-->
 
 
 ## Contacto
 
 - **Nombre**: Alegre Jorge
-- **Correo Electrónico**: [mi-email@.com](georgea080@gmail.com)
+- **Correo Electrónico**: georgea080@gmail.com
 <!-- **LinkedIn**: [Tu Perfil](https://www.linkedin.com/in/tu-perfil) -->
 
